@@ -93,7 +93,7 @@ namespace BlackierLab4
             // Constants used to restrict the number of people
             const int MINPEOPLE = 1, MAXPEOPLE = 10;
             // Constants used for prices
-            const double MEX = 2300.79, OTHER = 2150.5, DISCOUNT = 90;
+            const double MEX = 2300.79, OTHER = 2150.5, DISCOUNT = 0.9;
             // Variable set to the amount entered by the user
             int people;
             // Variable set to the total price
@@ -149,7 +149,7 @@ namespace BlackierLab4
                     txtPrice.Text = price.ToString("c2");
 
                     // Checks if the val entered by user is 1 or 3. Displays a msg with the DisplayMsg funstion and tells the user about the offer.
-                    switch ()
+                    switch (people)
                     {
                         case 1:
                         case 3:
@@ -175,7 +175,7 @@ namespace BlackierLab4
                     // Checks if the radbtn Florida is checked and sets the location to Florida. Creates the rest of the display lbl using data enetered by the user.
                     else if (radFlorida.Checked)
                     {
-                        location = radFlorida.Text
+                        location = radFlorida.Text;
                         lblTripInfo.Text = tripInfo
                                           + location.ToUpper()
                                           + flightInc
