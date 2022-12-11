@@ -1,0 +1,44 @@
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.exe.config
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.exe
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.pdb
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.Form1.resources
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.Properties.Resources.resources
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.GenerateResource.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.exe
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Projects\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.pdb
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.exe.config
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.exe
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.pdb
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.AssemblyReference.cache
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.Form1.resources
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.Properties.Resources.resources
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.GenerateResource.cache
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.exe
+C:\Users\Chad\Documents\Programmer Analyst\Intro to Prog\Labs\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.pdb
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.exe.config
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.exe
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\bin\Debug\BlackierLab4.pdb
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.Form1.resources
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.Properties.Resources.resources
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.GenerateResource.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.exe
+C:\Users\User\Documents\Programmer Analyst\Intro to Prog\Labs\Lab4\BlackierLab4\BlackierLab4\obj\Debug\BlackierLab4.pdb
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\bin\Debug\BlackierLab4.exe.config
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\bin\Debug\BlackierLab4.exe
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\bin\Debug\BlackierLab4.pdb
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.csproj.AssemblyReference.cache
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.csproj.SuggestedBindingRedirects.cache
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.Form1.resources
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.Properties.Resources.resources
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.csproj.GenerateResource.cache
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.csproj.CoreCompileInputs.cache
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.exe
+C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Mine(Original)\BlackierLab4\obj\Debug\BlackierLab4.pdb
